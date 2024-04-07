@@ -22,3 +22,6 @@
 [submodule "pack/sCASP"]
 	path = pack/sCASP
 	url = https://github.com/SWI-Prolog/sCASP.git
+[submodule "thea"]
+	path = thea
+	url = https://github.com/saviorand/thea.git
